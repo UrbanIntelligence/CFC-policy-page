@@ -4,6 +4,10 @@ Privacy Policy
 
 This Privacy Policy describes how CFC collects, uses, and shares information about you ("user," "you," "your") when you use our mobile application ("CFC Camp").
 
+0. Request to delete your data.
+
+If a user would like to delete the data she/he created in the app, the user can contact us at cfccamp01@gmail.com.
+
 1. Information We Collect
 
 We may collect information that you provide to us directly, such as your name, email address, and any feedback or other information you provide to us through the app.
@@ -41,3 +45,4 @@ We may update this Privacy Policy from time to time. If we make material changes
 10. Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact us at cfccamp01@gmail.com.
+
